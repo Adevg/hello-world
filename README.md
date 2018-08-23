@@ -1,2 +1,2 @@
 # hello-world
-Testing hello-world
+Hello smartshift.
